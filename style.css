@@ -22,6 +22,7 @@ body {
     max-width: 100%;
     width: 800px;
     text-align: center;
+    opacity: 0.9;
 }
 
 h3 {
