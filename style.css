@@ -26,9 +26,13 @@ body {
 }
 
 h3 {
-    margin: 0;
+    margin: 10;
     letter-spacing: 2px;
     opacity: 0.5;
+}
+
+#title {
+    justify-content: flex-end;
 }
 
 .joke {
@@ -47,7 +51,7 @@ h3 {
     color: white;
     cursor: pointer;
     font-size: 20px;
-    padding: 14px 40px;
+    padding: 14px 35px;
 }
 
 .btn:active {
